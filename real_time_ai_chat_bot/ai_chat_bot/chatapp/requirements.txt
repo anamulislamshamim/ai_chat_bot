@@ -1,0 +1,4 @@
+Django
+djangorestframework
+django-channels
+openai
